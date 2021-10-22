@@ -136,31 +136,6 @@ export const projectsData = [
         tools: []
     },
     {
-        name: "ACNH Database",
-        description: "List of critters, items, villagers, recipes, and more",
-        languages: ["en"],
-        logo: "acnh-database.png",
-        logoStyle: "banner",
-        site: "https://www.acnhdatabase.me/",
-        android: "",
-        ios: "",
-        discord: "",
-        facebook: "",
-        instagram: "",
-        twitter: "",
-        git: "https://github.com/shengye000/ACNHDatabase",
-        information: [
-            "art",
-            "critters",
-            "fossils",
-            "items",
-            "villagers"
-        ],
-        tools: [
-            "music"
-        ]
-    },
-    {
         name: "ACNH Data Spreadsheet",
         description: "A comprehensive Google spreadsheet documenting items, villagers, achievements, and much more",
         languages: ["en"],
@@ -908,27 +883,6 @@ export const projectsData = [
         ],
         tools: [
             "checklist"
-        ]
-    },
-    {
-        name: "Nook Market",
-        description: "Buy and sell items and villagers",
-        languages: ["en"],
-        logo: "nook-market.png",
-        logoStyle: "icon",
-        site: "https://nook.market/",
-        android: "",
-        ios: "",
-        discord: "NS5yfKS",
-        facebook: "",
-        instagram: "",
-        twitter: "",
-        git: "",
-        information: [
-            "items"
-        ],
-        tools: [
-            "marketplace"
         ]
     },
     {
